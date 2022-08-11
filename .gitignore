@@ -1,5 +1,5 @@
 /bin
 /include
 /lib
+/core/mainBackup.py
 pyvenv.cfg
-mainBackup.py
